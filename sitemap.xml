@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="http://localhost/AlumniAssociation/sitemap.xls"?>
+<sitemap>
+  <item>
+    <title>index.php</title>
+    <link>http://zeelsinojia.github.io/</link>
+    <description>The main page of site</description>
+  </item>
+  <item>
+    <title>logout.php</title>
+    <link>http://zeelsinojia.github.io/logout.php</link>
+    <description>The logout functionality of site</description>
+  </item>
+  <item>
+    <title>event.php</title>
+    <link>http://zeelsinojia.github.io/event.php</link>
+    <description>Event module page of site</description>
+  </item>
+  <item>
+    <title>discussion.php</title>
+    <link>http://zeelsinojia.github.io/discussion.php</link>
+    <description>Discussion module page of site</description>
+  </item>
+  <item>
+    <title>alumni.php</title>
+    <link>http://zeelsinojia.github.io/alumni.php</link>
+    <description>Alumni module page of site</description>
+  </item>
+  <item>
+    <title>login.php</title>
+    <link>http://zeelsinojia.github.io/login.php</link>
+    <description>The login page of site</description>
+  </item>
+  <item>
+    <title>signup.php</title>
+    <link>http://zeelsinojia.github.io/signup.php</link>
+    <description>The signup page of site</description>
+  </item>
+</sitemap>
